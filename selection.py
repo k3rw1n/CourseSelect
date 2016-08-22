@@ -28,7 +28,7 @@ for couses in queuelist:
 	for couse in couses:
 		if dictmark[couse] == 'O':counter+=1
 	if counter == 5:
-		print couses
+		# print couses
 		fivestar.append(couses)
 
 allcourse=["12003315","22003360","22003428","22003429","21008300","21008305","11009010","21009306","11012002","21012001","24003378","24003496","14003309","22003468","22003334","12003346","22003494"]
